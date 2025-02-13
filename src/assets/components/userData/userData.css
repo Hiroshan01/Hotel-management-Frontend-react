@@ -1,3 +1,23 @@
 .user-data-div{
+    position: absolute;
     
+    right: 0;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin: 5px;
+    cursor: pointer;
+
+}
+.user-data-div img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+   
+}
+.user-data-div span{
+    font-size: 20px;
+    margin: 10px;
+    color: #fff;
+   
 }

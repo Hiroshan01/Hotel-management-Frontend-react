@@ -1,5 +1,7 @@
 .header{
-  
+    height: 80px;
     background-color:#1c7ac8;
     display: flex;
+    position: relative;
+    align-items: center;
 }
