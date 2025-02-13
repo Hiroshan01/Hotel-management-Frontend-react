@@ -1,10 +1,11 @@
 import React from 'react'
-import Header from './assets/components/header'
+import './App.css'
+import Header from './assets/components/header/header'
 
 function App() {
   return (
     <div>
-      <h1>hI</h1>
+     
       <Header/>
     </div>
   )
